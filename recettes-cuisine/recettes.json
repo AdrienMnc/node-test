@@ -1,6 +1,6 @@
 [
     {
-      "name": "Tarte aux pommes",
+      "name": "tarte_aux_pommes",
       "ingredients": [
         "2 pâtes brisées",
         "6 pommes",
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "name": "Quiche lorraine",
+      "name": "quiche_lorraine",
       "ingredients": [
         "1 pâte brisée",
         "200g de lardons fumés",
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "name": "Gratin de macaroni",
+      "name": "gratin_de_macaroni",
       "ingredients": [
         "250g de macaroni",
         "1 boîte de pulpe de tomate",
@@ -59,7 +59,7 @@
       ]
     },
     {
-      "name": "Risotto aux légumes",
+      "name": "risotto_aux_légumes",
       "ingredients": [
         "1 verre de riz arborio",
         "1 carotte",
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "Omelette aux légumes",
+      "name": "omelette_aux_légumes",
       "ingredients": [
         "3 œufs",
         "1 carotte",
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "name": "Lasagnes aux légumes",
+      "name": "lasagnes_aux_légumes",
       "ingredients": [
         "8 feuilles de lasagne",
         "1 courgette",
@@ -123,7 +123,7 @@
       ]
     },
     {
-      "name": "Pain perdu",
+      "name": "pain_perdu",
       "ingredients": [
         "4 tranches de pain",
         "3 œufs",
