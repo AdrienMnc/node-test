@@ -1,0 +1,145 @@
+[
+    {
+      "name": "Tarte aux pommes",
+      "ingredients": [
+        "2 pâtes brisées",
+        "6 pommes",
+        "100g de sucre",
+        "2 c. à soupe de farine",
+        "1 œuf"
+      ],
+      "instructions": [
+        "Préchauffer le four à 180°C (th. 6).",
+        "Etaler une pâte brisée dans un moule à tarte.",
+        "Eplucher et couper les pommes en fines lamelles.",
+        "Disposer les lamelles de pommes sur la pâte.",
+        "Mélanger le sucre, la farine et l'œuf, et verser sur les pommes.",
+        "Recouvrir avec la seconde pâte brisée et enfourner pour 35 minutes.",
+        "Laisser tiédir avant de déguster."
+      ]
+    },
+    {
+      "name": "Quiche lorraine",
+      "ingredients": [
+        "1 pâte brisée",
+        "200g de lardons fumés",
+        "3 œufs",
+        "20cl de crème liquide",
+        "100g de gruyère râpé"
+      ],
+      "instructions": [
+        "Préchauffer le four à 180°C (th. 6).",
+        "Etaler la pâte brisée dans un moule à tarte.",
+        "Disposer les lardons sur la pâte.",
+        "Battre les œufs et la crème liquide, et verser sur les lardons.",
+        "Saupoudrer de gruyère râpé.",
+        "Enfourner pour 35 minutes.",
+        "Laisser tiédir avant de déguster."
+      ]
+    },
+    {
+      "name": "Gratin de macaroni",
+      "ingredients": [
+        "250g de macaroni",
+        "1 boîte de pulpe de tomate",
+        "200g de fromage râpé",
+        "1 cuillère à soupe d'huile d'olive",
+        "1 oignon",
+        "1 gousse d'ail",
+        "sel, poivre"
+      ],
+      "instructions": [
+        "Préchauffer le four à 180°C (th. 6).",
+        "Faire cuire les macaronis selon les indications du paquet.",
+        "Pendant ce temps, émincer l'oignon et l'ail et les faire chauffer dans l'huile d'olive dans une poêle à feu moyen.",
+        "Ajouter la pulpe de tomate et mélanger.",
+        "Dans un plat à gratin, disposer les macaronis cuits et égouttés, et verser la sauce tomate par-dessus.",
+        "Saupoudrer de fromage râpé et enfourner pour 20 minutes.",
+        "Servir chaud."
+      ]
+    },
+    {
+      "name": "Risotto aux légumes",
+      "ingredients": [
+        "1 verre de riz arborio",
+        "1 carotte",
+        "1 poivron",
+        "1 oignon",
+        "1 litre de bouillon de légumes",
+        "1 cuillère à soupe d'huile d'olive",
+        "50g de parmesan râpé",
+        "sel, poivre"
+      ],
+      "instructions": [
+        "Eplucher et couper la carotte et l'oignon en petits dés.",
+        "Couper le poivron en petits dés.",
+        "Chauffer l'huile d'olive dans une poêle et y faire cuire les légumes à feu moyen jusqu'à ce qu'ils soient tendres.",
+        "Ajouter le riz et mélanger jusqu'à ce qu'il devienne transparent.",
+        "Verser le bouillon de légumes petit à petit, en remuant constamment jusqu'à ce que le riz soit cuit (environ 20 minutes).",
+        "Ajouter le parmesan râpé et mélanger.",
+        "Servir chaud, en assaisonnant éventuellement avec un peu de sel et de poivre."
+      ]
+    },
+    {
+      "name": "Omelette aux légumes",
+      "ingredients": [
+        "3 œufs",
+        "1 carotte",
+        "1 poivron",
+        "1 oignon",
+        "1 cuillère à soupe d'huile d'olive",
+        "sel, poivre"
+      ],
+      "instructions": [
+        "Eplucher et couper la carotte et l'oignon en fines lamelles.",
+        "Couper le poivron en petits dés.",
+        "Chauffer l'huile d'olive dans une poêle et y faire cuire les légumes à feu moyen jusqu'à ce qu'ils soient tendres.",
+        "Battre les œufs et les ajouter aux légumes dans la poêle.",
+        "Faire cuire l'omelette jusqu'à ce qu'elle soit bien dorée des deux côtés.",
+        "Servir chaud, en assaisonnant éventuellement avec un peu de sel et de poivre."
+      ]
+    },
+    {
+      "name": "Lasagnes aux légumes",
+      "ingredients": [
+        "8 feuilles de lasagne",
+        "1 courgette",
+        "1 aubergine",
+        "1 oignon",
+        "1 boîte de tomates concassées",
+        "1 cuillère à soupe d'huile d'olive",
+        "200g de fromage râpé",
+        "sel, poivre"
+      ],
+      "instructions": [
+        "Préchauffer le four à 180°C (th. 6).",
+        "Couper les légumes en fines tranches ou en dés.",
+        "Chauffer l'huile d'olive dans une poêle et y faire cuire les légumes à feu moyen pendant 10 minutes.",
+        "Ajouter les tomates concassées et mélanger.",
+        "Dans un plat à gratin, disposer une couche de feuilles de lasagne, puis une couche de légumes, puis une couche de fromage râpé.",
+        "Répéter l'opération jusqu'à épuisement des ingrédients, en terminant par une couche de fromage râpé.",
+        "Enfourner pour 30 minutes.",
+        "Laisser tiédir avant de déguster."
+      ]
+    },
+    {
+      "name": "Pain perdu",
+      "ingredients": [
+        "4 tranches de pain",
+        "3 œufs",
+        "30cl de lait",
+        "1 cuillère à soupe de sucre",
+        "1 sachet de sucre vanillé",
+        "1 cuillère à soupe de beurre",
+        "1 pincée de sel"
+      ],
+      "instructions": [
+        "Dans un bol, mélanger les œufs, le lait, le sucre, le sucre vanillé et une pincée de sel.",
+        "Faire fondre le beurre dans une poêle à feu moyen.",
+        "Tremper chaque tranche de pain dans le mélange œufs/lait, puis la placer dans la poêle chaude.",
+        "Faire cuire chaque tranche de pain pendant 2-3 minutes de chaque côté, jusqu'à ce qu'elle soit dorée.",
+        "Servir chaud, accompagné éventuellement de confiture ou de sirop d'érable."
+      ]
+    }
+]
+  
